@@ -1,4 +1,4 @@
-# Learning Java Concepts
+# Learning Java fundamentals
 Refresh the basics of the Java language :
 <ul>
   <li>Types</li>
