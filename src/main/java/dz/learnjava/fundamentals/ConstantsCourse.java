@@ -1,4 +1,4 @@
-package dz.learnjava;
+package dz.learnjava.fundamentals;
 
 public class ConstantsCourse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dz.learnjava;
+package dz.learnjava.fundamentals;
 
 import java.util.Scanner;
 

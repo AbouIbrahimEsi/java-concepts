@@ -1,6 +1,6 @@
-package dz.learnjava;
+package dz.learnjava.fundamentals;
 
-import java.util.Locale;
+
 import java.util.Scanner;
 
 public class ControlFLowCourse {

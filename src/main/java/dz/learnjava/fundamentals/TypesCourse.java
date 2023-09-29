@@ -1,4 +1,4 @@
-package dz.learnjava;
+package dz.learnjava.fundamentals;
 
 import java.awt.*;
 import java.util.Date;
