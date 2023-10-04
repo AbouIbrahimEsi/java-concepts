@@ -1,7 +1,8 @@
 package dz.learnjava.genericsCourse;
 
 //public class GenericList<E extends Number> { // Constraint on E (extending Number class)
-public class GenericList<E extends Comparable<E> & Cloneable> { // extending Comparable Interface
+//public class GenericList<E extends Comparable<E> & Cloneable> { // extending Comparable Interface
+public class GenericList<E> { // extending Comparable Interface
 
     // Like methods, Classes have type parameter that we can call it:
     // T is short of a Type or a Template
