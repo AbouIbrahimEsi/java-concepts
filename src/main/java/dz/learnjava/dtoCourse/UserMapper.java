@@ -2,7 +2,7 @@ package dz.learnjava.dtoCourse;
 
 import java.util.function.Function;
 
-//@Service
+//@Component
 public class UserMapper implements Function<UserModel, UserDto> {
     // This is a Functional Interface
     @Override
